@@ -48,3 +48,20 @@ Allow users to register, log in, and manage authentication securely.
   }
 }
 ```
+
+**POST /api/auth/login**
+Authenticates existing user and returns a JWT.
+
+```json
+{
+  "email": "john@example.com",
+  "password": "StrongP@ss123"
+}
+
+{
+  "token": "jwt-token",
+  "user": { "id": "...", "name": "John Doe", "role": "host" }
+}
+
+```
+
