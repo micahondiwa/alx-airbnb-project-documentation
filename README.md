@@ -82,7 +82,7 @@ Examples of key use cases:
 - Leave reviews  
 - Receive notifications
 
-Diagram available at: `use-case-diagram/use-case.png`
+Diagram available at: [use-case-diagram/use-case.png](use-case-diagram/use-case.png)
 
 ---
 
