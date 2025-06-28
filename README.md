@@ -38,7 +38,7 @@ This repository documents the backend logic, workflows, data handling, and syste
 - 📂 [data-flow-diagram/](data-flow-diagram/) - Data Flow Diagram (DFD) PNG file
   - 📄 [data-flow.png](data-flow-diagram/data-flow.png)
 - 📂 [features-and-functionalities/](features-and-functionalities/) - Features diagram
-  - 📄 [features.png](features-and-functionalities/airbnb-backend-features.drawio.png)
+  - 📄 [airbnb-backend-features.drawio.png](features-and-functionalities/airbnb-backend-features.drawio.png)
 - 📂 [flowcharts/](flowcharts/) - System process flowcharts
   - 📄 [data-flow-diagram.png](flowcharts/data-flow-diagram.png)
 - 📂 [use-case-diagram/](use-case-diagram/) - User/system interactions
