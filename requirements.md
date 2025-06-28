@@ -18,8 +18,6 @@ Allow users to register, log in, and manage authentication securely.
 - **POST /api/auth/register**  
   Registers a new user.
 
-  **Input (JSON):**
-
   ```json
   {
     "name": "John Doe",
@@ -128,3 +126,15 @@ Search listings with filters.
 **Performance:**
 - Listing fetch time under 500ms with filters
 - Pagination enabled (20 per page)
+
+## 3. Booking System
+
+**Objective:**
+
+Enable guests to book available properties and manage bookings.
+
+**API Endpoints:**
+
+- POST /api/bookings/
+    Create a booking.
+
