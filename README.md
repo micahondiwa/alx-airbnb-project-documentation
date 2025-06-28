@@ -130,7 +130,7 @@ Diagram available at: [flowcharts/data-flow-diagram.png](flowcharts/data-flow-di
 
 ## Requirements
 
-Technical and non-functional requirements are outlined in `requirements.md`. Key highlights include:
+Technical and non-functional requirements are outlined in [requirements.md](requirements.md). Key highlights include:
 
 - RESTful API design  
 - JWT Authentication  
