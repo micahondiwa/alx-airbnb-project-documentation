@@ -40,7 +40,7 @@ This repository documents the backend logic, workflows, data handling, and syste
 - 📂 [features-and-functionalities/](features-and-functionalities/) - Features diagram
   - 📄 [features.png](features-and-functionalities/airbnb-backend-features.drawio.png)
 - 📂 [flowcharts/](flowcharts/) - System process flowcharts
-  - 📄 [process-flowchart.png](flowcharts/process-flowchart.png)
+  - 📄 [data-flow-diagram.png](flowcharts/data-flow-diagram.png)
 - 📂 [use-case-diagram/](use-case-diagram/) - User/system interactions
   - 📄 [use-case.png](use-case-diagram/use-case.png)
 - 📂 [user-stories/](user-stories/) - User stories
