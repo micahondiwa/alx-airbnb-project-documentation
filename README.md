@@ -124,7 +124,7 @@ The Process Flowchart visualizes the workflow of one core backend feature, such 
 
 Includes steps, validations, and decisions that occur throughout the process.
 
-Diagram available at: `flowcharts/process-flowchart.png`
+Diagram available at: [flowcharts/data-flow-diagram.png](flowcharts/data-flow-diagram.png)
 
 ---
 
