@@ -65,7 +65,7 @@ The core backend must support the following functionalities:
 - Notifications (Email and In-App)  
 - Admin Dashboard (Monitor and manage users, listings, bookings)
 
-Diagram available at: [features-and-functionalities](features-and-functionalities/airbnb-backend-features.drawio.png)
+Diagram available at: [features-and-functionalities/airbnb-backend-features.drawio.png](features-and-functionalities/airbnb-backend-features.drawio.png)
 
 ---
 
