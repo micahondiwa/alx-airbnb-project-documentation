@@ -34,22 +34,19 @@ This repository documents the backend logic, workflows, data handling, and syste
 
 ## Repository Structure
 
-
-```plaintext
-alx-airbnb-project-documentation/
-├── data-flow-diagram/ # Data Flow Diagram (DFD) PNG file
-│ └── data-flow.png
-├── features-and-functionalities/ # Features and functionalities diagram
-│ └── features.png
-├── flowcharts/ # Flowchart for system process (e.g. booking, registration)
-│ └── process-flowchart.png
-├── use-case-diagram/ # Use Case diagram showing user and system interactions
-│ └── use-case.png
-├── user-stories/ # Markdown file with user stories based on use cases
-│ └── user-stories.md
-├── README.md # Main documentation overview file
-└── requirements.md # Project backend requirements (functional & technical)
-```
+📂 [alx-airbnb-project-documentation/](alx-airbnb-project-documentation/)
+- 📂 [data-flow-diagram/](data-flow-diagram/) - Data Flow Diagram (DFD) PNG file
+  - 📄 [data-flow.png](data-flow-diagram/data-flow.png)
+- 📂 [features-and-functionalities/](features-and-functionalities/) - Features diagram
+  - 📄 [features.png](features-and-functionalities/features.png)
+- 📂 [flowcharts/](flowcharts/) - System process flowcharts
+  - 📄 [process-flowchart.png](flowcharts/process-flowchart.png)
+- 📂 [use-case-diagram/](use-case-diagram/) - User/system interactions
+  - 📄 [use-case.png](use-case-diagram/use-case.png)
+- 📂 [user-stories/](user-stories/) - User stories
+  - 📄 [user-stories.md](user-stories/user-stories.md)
+- 📄 [README.md](README.md) - Main documentation
+- 📄 [requirements.md](requirements.md) - Project requirements
 ---
 
 ## Features and Functionalities
