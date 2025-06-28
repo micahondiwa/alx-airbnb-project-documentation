@@ -96,3 +96,12 @@ API Endpoints:
      - location (string, required)
      - amenities (array of strings)
      - images[] (files)
+
+```json
+{
+  "id": "property_id",
+  "title": "...",
+  "host_id": "user_id",
+  ...
+}
+```
