@@ -121,14 +121,10 @@ Search listings with filters.
 - Title max 100 characters
 - Price must be > 0
 
-Storage:
+**Storage:**
+- Images stored in AWS S3 or Cloudinary
+- Metadata in PostgreSQL
 
-    Images stored in AWS S3 or Cloudinary
-
-    Metadata in PostgreSQL
-
-Performance:
-
-    Listing fetch time under 500ms with filters
-
-    Pagination enabled (20 per page)
+**Performance:**
+- Listing fetch time under 500ms with filters
+- Pagination enabled (20 per page)
