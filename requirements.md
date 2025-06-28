@@ -138,3 +138,11 @@ Enable guests to book available properties and manage bookings.
 - POST /api/bookings/
     Create a booking.
 
+```json
+{
+  "property_id": "abc123",
+  "start_date": "2025-07-15",
+  "end_date": "2025-07-20"
+}
+```
+
