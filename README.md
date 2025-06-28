@@ -96,7 +96,7 @@ Each use case is translated into a user story. Examples:
 - As a user, I want to make secure payments to complete my bookings.  
 - As a host, I want to manage reviews on my properties.
 
-Documented in: `user-stories/user-stories.md`
+Documented in: [user-stories/user-stories.md](user-stories/user-stories.md)
 
 ---
 
