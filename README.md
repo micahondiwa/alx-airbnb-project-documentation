@@ -34,7 +34,19 @@ This repository documents the backend logic, workflows, data handling, and syste
 
 ## Repository Structure
 
-
+alx-airbnb-project-documentation/
+├── data-flow-diagram/ # Data Flow Diagram (DFD) PNG file
+│ └── data-flow.png
+├── features-and-functionalities/ # Features and functionalities diagram
+│ └── features.png
+├── flowcharts/ # Flowchart for system process (e.g. booking, registration)
+│ └── process-flowchart.png
+├── use-case-diagram/ # Use Case diagram showing user and system interactions
+│ └── use-case.png
+├── user-stories/ # Markdown file with user stories based on use cases
+│ └── user-stories.md
+├── README.md # Main documentation overview file
+└── requirements.md # Project backend requirements (functional & technical)
 
 ---
 
