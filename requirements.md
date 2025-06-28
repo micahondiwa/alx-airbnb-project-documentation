@@ -65,3 +65,34 @@ Authenticates existing user and returns a JWT.
 
 ```
 
+**Security:**
+
+- Passwords hashed using bcrypt
+
+- JWT tokens expire in 24 hours
+
+- Rate limiting (e.g., 5 attempts per IP per hour)
+
+**Performance:**
+
+- Authentication response under 300ms
+
+## 2. Property Management
+
+**Objective:**
+
+Allow hosts to add, edit, delete, and retrieve property listings.
+
+API Endpoints:
+
+- POST /api/properties/
+
+    Create a new property listing.
+
+    Input (Multipart Form):
+     - title (string, required)
+     - description (string)
+     - price_per_night (float, required)
+     - location (string, required)
+     - amenities (array of strings)
+     - images[] (files)
