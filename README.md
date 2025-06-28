@@ -49,7 +49,7 @@ alx-airbnb-project-documentation/
 │ └── user-stories.md
 ├── README.md # Main documentation overview file
 └── requirements.md # Project backend requirements (functional & technical)
-
+```
 ---
 
 ## Features and Functionalities
