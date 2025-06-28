@@ -111,7 +111,7 @@ Entities include:
 - Bookings  
 - Payments
 
-Diagram available at: `data-flow-diagram/data-flow.png`
+Diagram available at: [data-flow-diagram/data-flow.png](data-flow-diagram/data-flow.png)
 
 ---
 
