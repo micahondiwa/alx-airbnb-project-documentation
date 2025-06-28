@@ -105,3 +105,13 @@ API Endpoints:
   ...
 }
 ```
+- PUT /api/properties/:id
+
+Edit a property listing.
+
+- DELETE /api/properties/:id
+
+Remove a property.
+
+- GET /api/properties/?location=&price_min=&price_max=...
+Search listings with filters.
