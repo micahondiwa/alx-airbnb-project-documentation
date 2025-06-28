@@ -143,7 +143,7 @@ Technical and non-functional requirements are outlined in `requirements.md`. Key
 
 ---
 
-## How to Use This Repository
+## How to Use this Repository
 
 1. Clone the repository  
 2. Open the diagram files with Draw.io or any diagram viewer  
