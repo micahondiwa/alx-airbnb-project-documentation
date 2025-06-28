@@ -34,7 +34,7 @@ This repository documents the backend logic, workflows, data handling, and syste
 
 ## Repository Structure
 
-📂 [alx-airbnb-project-documentation/](alx-airbnb-project-documentation/)
+📂 [alx-airbnb-project-documentation/](/)
 - 📂 [data-flow-diagram/](data-flow-diagram/) - Data Flow Diagram (DFD) PNG file
   - 📄 [data-flow.png](data-flow-diagram/data-flow.png)
 - 📂 [features-and-functionalities/](features-and-functionalities/) - Features diagram
