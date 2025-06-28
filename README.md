@@ -42,7 +42,7 @@ This repository documents the backend logic, workflows, data handling, and syste
 - 📂 [flowcharts/](flowcharts/) - System process flowcharts
   - 📄 [data-flow-diagram.png](flowcharts/data-flow-diagram.png)
 - 📂 [use-case-diagram/](use-case-diagram/) - User/system interactions
-  - 📄 [use-case.png](use-case-diagram/use-case.png)
+  - 📄 [airbnb-use-case-diagram.drawio.png](use-case-diagram/airbnb-use-case-diagram.drawio.png)
 - 📂 [user-stories/](user-stories/) - User stories
   - 📄 [user-stories.md](user-stories/user-stories.md)
 - 📄 [README.md](README.md) - Main documentation
