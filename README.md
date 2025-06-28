@@ -1,6 +1,6 @@
 # ALX Airbnb Clone – Backend Documentation
 
-This repository contains the backend system design and documentation for the Airbnb Clone project, developed as part of the ALX Software Engineering Program. It outlines the features, user interactions, data flows, and technical requirements necessary to implement a robust backend system for a rental marketplace platform.
+This repository contains the backend system design and documentation for the Airbnb Clone project, developed as part of the ALX Software [ProDev Back-End Developer Program](https://www.alxafrica.com/programme/prodev-backend/). It outlines the features, user interactions, data flows, and technical requirements necessary to implement a robust backend system for a rental marketplace platform.
 
 ---
 
