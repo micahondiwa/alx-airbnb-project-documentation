@@ -153,3 +153,29 @@ Enable guests to book available properties and manage bookings.
 
 ```
 
+- GET /api/bookings/:id
+
+    Retrieve booking details.
+
+- DELETE /api/bookings/:id
+
+    Cancel a booking (based on policy).
+
+**Validation Rules:**
+
+- Cannot book own property
+- No double bookings (date conflict check)
+- Minimum stay: 1 night
+- Start date must be >= today
+
+**Business Logic:**
+
+- Automatically calculate total cost = nights × price
+-Booking status: pending → confirmed after payment
+
+**Performance:**
+
+- Booking confirmation within 1 second
+- Data consistency ensured with transactions
+
+**Note:** All endpoints require authentication except for public property search (GET /api/properties/).
