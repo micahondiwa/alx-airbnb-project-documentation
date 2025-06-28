@@ -180,8 +180,7 @@ Enable guests to book available properties and manage bookings.
 
 **Note:** All endpoints require authentication except for public property search (GET /api/properties/).
 
-Version: 1.0
 
-Last Updated: June 28, 2025
-
-Author: [Micah Ondiwa](https://github.com/micahondiwa/)
+*Version:* 1.0
+*Last Updated:* June 28, 2025
+*Author:* [Micah Ondiwa](https://github.com/micahondiwa/)
