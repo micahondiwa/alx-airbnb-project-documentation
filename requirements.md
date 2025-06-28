@@ -115,3 +115,20 @@ Remove a property.
 
 - GET /api/properties/?location=&price_min=&price_max=...
 Search listings with filters.
+
+**Validation Rules:**
+- Only hosts can create/edit/delete
+- Title max 100 characters
+- Price must be > 0
+
+Storage:
+
+    Images stored in AWS S3 or Cloudinary
+
+    Metadata in PostgreSQL
+
+Performance:
+
+    Listing fetch time under 500ms with filters
+
+    Pagination enabled (20 per page)
