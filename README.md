@@ -162,3 +162,5 @@ This project is part of a learning path. To contribute:
 
 ---
 
+**Author**: [micahondiwa](https://github.com/micahondiwa/)
+
