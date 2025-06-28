@@ -144,5 +144,12 @@ Enable guests to book available properties and manage bookings.
   "start_date": "2025-07-15",
   "end_date": "2025-07-20"
 }
+
+{
+  "booking_id": "...",
+  "status": "pending",
+  "total_price": 500
+}
+
 ```
 
