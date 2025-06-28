@@ -34,19 +34,21 @@ This repository documents the backend logic, workflows, data handling, and syste
 
 ## Repository Structure
 
-📂 [alx-airbnb-project-documentation/](/)
-├── 📂 [data-flow-diagram/](data-flow-diagram/) - Data Flow Diagram (DFD) PNG file
-│   └── 📄 [data-flow.png](data-flow-diagram/data-flow.png)
-├── 📂 [features-and-functionalities/](features-and-functionalities/) - Features diagram
-│   └── 📄 [airbnb-backend-features.drawio.png](features-and-functionalities/airbnb-backend-features.drawio.png)
-├── 📂 [flowcharts/](flowcharts/) - System process flowcharts
-│   └── 📄 [data-flow-diagram.png](flowcharts/data-flow-diagram.png)
-├── 📂 [use-case-diagram/](use-case-diagram/) - User/system interactions
-│   └── 📄 [airbnb-use-case-diagram.drawio.png](use-case-diagram/airbnb-use-case-diagram.drawio.png)
-├── 📂 [user-stories/](user-stories/) - User stories
-│   └── 📄 [user-stories.md](user-stories/user-stories.md)
-├── 📄 [README.md](README.md) - Main documentation
-└── 📄 [requirements.md](requirements.md) - Project requirements
+# Repository Structure
+
+📂 alx-airbnb-project-documentation/  
+├── 📂 data-flow-diagram/ - Data Flow Diagram (DFD) PNG file  
+│   └── 📄 data-flow.png  
+├── 📂 features-and-functionalities/ - Features diagram  
+│   └── 📄 airbnb-backend-features.drawio.png  
+├── 📂 flowcharts/ - System process flowcharts  
+│   └── 📄 data-flow-diagram.png  
+├── 📂 use-case-diagram/ - User/system interactions  
+│   └── 📄 airbnb-use-case-diagram.drawio.png  
+├── 📂 user-stories/ - User stories  
+│   └── 📄 user-stories.md  
+├── 📄 README.md - Main documentation  
+└── 📄 requirements.md - Project requirements
 
 ---
 
